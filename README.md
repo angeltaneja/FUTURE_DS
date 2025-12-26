@@ -1,6 +1,6 @@
 ** FUTURE_DS_02 – Social Media Campaign Performance Tracker**
  
-This repository contains Task 2 of my Data Science & Analytics Internship at Future Interns.
+This repository contains Task 2 of my Data Science & Analytics Internship at #Future Interns.
 
 🔹 Project Summary
  -Built an interactive Power BI dashboard using social media advertising data to:
@@ -14,10 +14,9 @@ Source: Kaggle / Internship dataset
 Columns: Campaign Name, Platform, Impressions, Clicks, Spend, Revenue, Likes, Comments, Shares
 
 📈 Key Metrics
+
 CTR (%) = (Clicks ÷ Impressions) × 100
-
 CPC = Spend ÷ Clicks
-
 ROI (%) = ((Revenue − Spend) ÷ Spend) × 100
 
 📊 Dashboard Features
