@@ -1,4 +1,4 @@
- FUTURE_DS_02 – Social Media Campaign Performance Tracker
+** FUTURE_DS_02 – Social Media Campaign Performance Tracker**
  
 This repository contains Task 2 of my Data Science & Analytics Internship at Future Interns.
 
@@ -15,7 +15,9 @@ Columns: Campaign Name, Platform, Impressions, Clicks, Spend, Revenue, Likes, Co
 
 📈 Key Metrics
 CTR (%) = (Clicks ÷ Impressions) × 100
+
 CPC = Spend ÷ Clicks
+
 ROI (%) = ((Revenue − Spend) ÷ Spend) × 100
 
 📊 Dashboard Features
@@ -41,4 +43,5 @@ Trend Analysis: Daily Spend vs Revenue
 -dashboard_screenshot.png
 
 🔗 LinkedIn Post
+
 https://www.linkedin.com/in/angel-taneja-140b45263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
